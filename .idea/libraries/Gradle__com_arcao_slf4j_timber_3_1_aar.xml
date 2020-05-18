@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arcao:slf4j-timber:3.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bf0db32b9e63ba9e20703849bd654af4/jetified-slf4j-timber-3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bf0db32b9e63ba9e20703849bd654af4/jetified-slf4j-timber-3.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.arcao/slf4j-timber/3.1/69f98557d7064891c402bb297cb10738e7bce12c/slf4j-timber-3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.arcao/slf4j-timber/3.1/fd39243a2f8809751bf81d49c7babd1ca8925f24/slf4j-timber-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

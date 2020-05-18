@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: io.requery:sqlite-android:3.30.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9c23b2c53bea2fe8e697c311b1b4f1fe/jetified-sqlite-android-3.30.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9c23b2c53bea2fe8e697c311b1b4f1fe/jetified-sqlite-android-3.30.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9c23b2c53bea2fe8e697c311b1b4f1fe/jetified-sqlite-android-3.30.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.requery/sqlite-android/3.30.1/e2d907a05f27609d2698fbc2399457d3990b5066/sqlite-android-3.30.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.requery/sqlite-android/3.30.1/e486a82e1bfc4fb82c9190e2c22f5065994177a6/sqlite-android-3.30.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

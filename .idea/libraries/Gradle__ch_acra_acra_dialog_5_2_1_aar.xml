@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.acra:acra-dialog:5.2.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ac9f3c6edf679fae54f45784d6a93329/jetified-acra-dialog-5.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ac9f3c6edf679fae54f45784d6a93329/jetified-acra-dialog-5.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/ch.acra/acra-dialog/5.2.1/8c1b9203e9c2718fd54044b811923327cebaa9bc/acra-dialog-5.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/ch.acra/acra-dialog/5.2.1/a2821855289de2055ac7b9a62575d40757166b75/acra-dialog-5.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

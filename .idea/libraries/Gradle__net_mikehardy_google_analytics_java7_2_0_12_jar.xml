@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: net.mikehardy:google-analytics-java7:2.0.12@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.mikehardy/google-analytics-java7/2.0.12/a3de189898b8086b3a129520a6b2840411b3de19/google-analytics-java7-2.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.mikehardy/google-analytics-java7/2.0.12/d68d1fb9afcc2c94350b0425e67ad8da6ac577eb/google-analytics-java7-2.0.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.mikehardy/google-analytics-java7/2.0.12/8ff0335d171e84486ae716932f5280c974193978/google-analytics-java7-2.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
